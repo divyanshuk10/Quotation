@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Quotation</string>
     <string name="action_settings">Settings</string>
+    <string name="genericlogo">genericLogo</string>
+    <string name="made_with">Made with \uD83D\uDC9A \n by \n Divyanshu</string>
+    <string name="email_id">divyanshuk10@gmail.com</string>
+    <string name="contentDescNext">next</string>
 </resources>
