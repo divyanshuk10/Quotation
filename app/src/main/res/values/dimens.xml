@@ -2,4 +2,13 @@
     <dimen name="fab_margin">16dp</dimen>
 
     <dimen name="titleSize">24sp</dimen>
+    <dimen name="textSizeOption_l">20sp</dimen>
+    <dimen name="textSizeOption_m">16sp</dimen>
+    <dimen name="textSizeOption_s">14sp</dimen>
+    <dimen name="drawablePadding_m">16dp</dimen>
+    <dimen name="drawablePadding_l">24dp</dimen>
+    <dimen name="drawablePadding_s">8dp</dimen>
+    <dimen name="cornerRadius_s">2dp</dimen>
+    <dimen name="cornerRadius_m">4dp</dimen>
+    <dimen name="cornerRadius_l">8dp</dimen>
 </resources>

@@ -17,4 +17,20 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <style name="textStyleWithDrawable">
+        <item name="android:drawablePadding">16dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/textColorHeadingOption_grey</item>
+        <item name="android:textSize">@dimen/textSizeOption_l</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:background">@drawable/rectangle_solid_light_grey</item>
+        <item name="android:padding">8dp</item>
+    </style>
+    <style name="heading_1">
+        <item name="android:textColor">@color/textColorHeadingOption_black</item>
+        <item name="android:textSize">@dimen/textSizeOption_m</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:layout_marginTop">16dp</item>
+    </style>
+
 </resources>
